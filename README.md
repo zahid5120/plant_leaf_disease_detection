@@ -9,6 +9,12 @@ This project is a comprehensive system for detecting plant leaf diseases, sugges
 ![Interface Image 2](https://github.com/zahid5120/plant_leaf_disease_detection/blob/main/img3.png)
 *Description*: Here, users can view the treatment recommendations suggested by the system based on the detected disease.
 
+![Interface Image 3](https://github.com/zahid5120/plant_leaf_disease_detection/blob/main/img4.png)
+*Description*: This screenshot displays the real-time weather updates section, indicating whether the weather is suitable for spraying.
+
+![Interface Image 4](https://github.com/zahid5120/plant_leaf_disease_detection/blob/main/img5.png)
+*Description*: In this image, users are interacting with the virtual doctor feature, seeking consultation for further guidance on plant health management.
+
 
 ## Features
 
