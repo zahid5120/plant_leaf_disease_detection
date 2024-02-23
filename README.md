@@ -2,6 +2,7 @@
 # Plant Leaf Diseases Detection and Treatment Recommendation System
 
 This project is a comprehensive system for detecting plant leaf diseases, suggesting treatments, providing real-time weather updates for spraying feasibility, and offering virtual consultation with a doctor. It combines machine learning algorithms for disease detection, weather APIs for real-time weather updates, and a user-friendly interface built with Flask.
+![Interface Image 1](https://github.com/zahid5120/plant_leaf_disease_detection/blob/main/img1.png)
 
 ## Features
 
