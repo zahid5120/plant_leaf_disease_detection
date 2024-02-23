@@ -15,7 +15,7 @@ Upon disease detection, the system recommends tailored treatments based on the s
 Integration with weather APIs enables the system to provide up-to-the-minute weather forecasts and conditions relevant to agricultural spraying activities. This feature empowers users to make informed decisions regarding spraying schedules, ensuring optimal effectiveness while minimizing environmental impact.
 
 # Virtual Consultation with a Doctor
-To further enhance the system's utility, it offers virtual consultation services with experienced professionals in agricultural and plant health management. Users can seek expert guidance, receive personalized recommendations, and address concerns related to plant health and disease management.
+To further enhance the system's utility, it offers virtual consultation services with a virtual doctor specialized in agricultural and plant health management. Users can interact with the virtual doctor to seek expert guidance, receive personalized recommendations, and address concerns related to plant health and disease management. The virtual doctor is equipped with natural language processing capabilities, enabling it to understand and respond to user queries in any language. This feature facilitates seamless communication and ensures accessibility for users worldwide, enhancing the system's effectiveness in supporting agricultural practices.
 
 # Key Components
 Machine Learning Algorithms: The backbone of the system's disease detection capability, leveraging cutting-edge CNNs trained on extensive datasets to achieve high accuracy in disease identification.
