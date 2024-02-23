@@ -53,7 +53,7 @@ This project is a comprehensive system for detecting plant leaf diseases, sugges
 
 - **static**: Contains static files such as CSS stylesheets and JSON data files.
 - **templates**: Contains HTML templates for the Flask application.
-- **models**: Contains pre-trained machine learning models for disease detection.
+
 
 
 
