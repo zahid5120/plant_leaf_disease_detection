@@ -6,6 +6,10 @@ This project is a comprehensive system for detecting plant leaf diseases, sugges
 ![Interface Image 1](https://github.com/zahid5120/plant_leaf_disease_detection/blob/main/img1.png)
 *Description*: This image shows the homepage of the interface where users can upload images for disease detection.
 
+![Interface Image 2](https://github.com/zahid5120/plant_leaf_disease_detection/blob/main/img3.png)
+*Description*: Here, users can view the treatment recommendations suggested by the system based on the detected disease.
+
+
 ## Features
 
 - **Disease Detection**: Utilizes a machine learning model based on MobileNetV2 for accurately identifying plant leaf diseases from images.
