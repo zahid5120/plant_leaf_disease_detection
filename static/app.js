@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
             navigator.geolocation.getCurrentPosition(function (position) {
                 const latitude = position.coords.latitude;
                 const longitude = position.coords.longitude;
-                const apiKey = "4f77b0e21f603d910a5a35dda151eae2"; // Replace with your actual OpenWeather API key
+                const apiKey = ""; // Replace with your actual OpenWeather API key
     
                 // Fetch current weather data
                 const currentWeatherUrl = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=${apiKey}&units=metric`;
