@@ -28,9 +28,7 @@ This project is a comprehensive system for detecting plant leaf diseases, sugges
 
 1. **Installation**:
    - Clone the repository:
-     ```
-     git clone https://github.com/yourusername/plant-leaf-diseases-detection.git
-     ```
+     
   
 2. **Running the Application**:
    - Navigate to the project directory:
