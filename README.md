@@ -1,6 +1,6 @@
 
 # Plant Leaf Diseases Detection and Treatment Recommendation System
-#*Author*: Zahid Hamid Wani
+*Author*: ZAHID HAMID WANI
 
 This project is a comprehensive system for detecting plant leaf diseases, suggesting treatments, providing real-time weather updates for spraying feasibility, and offering virtual consultation with a doctor. It combines machine learning algorithms for disease detection, weather APIs for real-time weather updates, and a user-friendly interface built with Flask.
 
